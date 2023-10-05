@@ -1,2 +1,2 @@
 # netflixclone
-its is a netflix clone made sing html and css
+its a netflix clone made sing html and css
